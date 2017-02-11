@@ -1,1 +1,2 @@
-# line_algo
+# line
+Graphics Assignment 2
