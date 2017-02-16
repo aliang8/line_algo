@@ -1,9 +1,9 @@
-run:
+all: run
+
+run: main.py
 	python main.py
 
 clean:
-	rm *~
-	rm display.pyc
-	rm draw.pyc
-	rm pic.ppm
-	rm img.png
+	rm *.png
+	rm *.ppm
+	rm *.pyc
